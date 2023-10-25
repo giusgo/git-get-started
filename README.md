@@ -97,8 +97,6 @@ With help of the instructor add you **PUBLIC** key to GitHub.
 
 You are now ready to go! You can now manage external Git repositories to keep track of the changes to your code and projects.
 
-<div align="center">
-
 | Basic Git Commands | Description |
 |---------------------|-------------|
 | `git init`         | Initializes a new Git repository in the current directory. |
@@ -113,5 +111,3 @@ You are now ready to go! You can now manage external Git repositories to keep tr
 | `git push`         | Pushes your local changes to a remote repository. |
 | `git diff`         | Shows the differences between the working directory and the last commit. |
 | `git remote -v`    | Lists the configured remote repositories. |
-
-</div>
